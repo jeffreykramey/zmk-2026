@@ -55,7 +55,7 @@ bindings = <&kp>, <&kp>;
 flavor = "tap-preferred";
 tapping-term-ms = <175>;
 quick-tap-ms = <165>;
-}
+};
 
 // comment tap: / | double-tap: comment out line
 ZMK_BEHAVIOR(cmnt, tap_dance,
